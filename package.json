@@ -6,6 +6,12 @@
   "engines": {
     "vscode": "^1.73.0"
   },
+  "publisher": "denysdanov",
+  "author": {
+    "name" : "Denys Danov",
+    "email" : "denysdanov@gmail.com",
+    "url" : "https://www.linkedin.com/in/denys-danov-6315001b3/"
+  },
   "categories": [
     "Other"
   ],
