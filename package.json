@@ -1,7 +1,7 @@
 {
   "name": "django-management",
   "displayName": "Django Management",
-  "description": "",
+  "description": "Django management tool for easy using, running and testing your Django project",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.73.0"
@@ -9,6 +9,10 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/denysdanov/django-management.git"
+  },
   "activationEvents": [
     "onCommand:django-management.runserver",
     "onCommand:django-management.test",
